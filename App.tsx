@@ -1,4 +1,3 @@
-import React from 'react';
 import { NativeBaseProvider, StatusBar } from 'native-base';
 import { THEME } from './src/styles/theme';
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto';
